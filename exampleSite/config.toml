@@ -16,27 +16,25 @@ disableLanguages = []
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/Ionicons/css/ionicons.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.0/css/ionicons.min.css"
 [[params.plugins.css]]
-link = "plugins/magnific-popup/magnific-popup.css"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
-link = "plugins/slick/slick.css"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/slick/slick.css"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
-link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
+link = "http://demo.themefisher.com/airspace-hugo/plugins/shuffle/shuffle.min.js"
 
 
 ############################### widgets #################################
