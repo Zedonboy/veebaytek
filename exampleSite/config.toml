@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://demo.themefisher.com/airspace-hugo/"
+baseURL = "https://affectionate-hawking-0877dd.netlify.app/"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # post pagination
@@ -26,9 +26,9 @@ link = "http://demo.themefisher.com/airspace-hugo/plugins/slick/slick.css"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "http://demo.themefisher.com/airspace-hugo/plugins/jQuery/jquery.min.js"
+link = "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"
 [[params.plugins.js]]
-link = "http://demo.themefisher.com/airspace-hugo/plugins/bootstrap/bootstrap.min.js"
+link = "https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 [[params.plugins.js]]
 link = "http://demo.themefisher.com/airspace-hugo/plugins/slick/slick.min.js"
 [[params.plugins.js]]
