@@ -65,21 +65,6 @@ weight = 3
 name = "Blog"
 URL = "blog"
 weight = 4
-
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
   
 [[menu.main]]
 name = "Contact"
@@ -104,16 +89,6 @@ URL = "service"
 weight = 3
 
 [[menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[menu.footer]]
 name = "Contact"
 URL = "contact"
 weight = 6
@@ -123,12 +98,11 @@ weight = 6
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "A tech company"
+author = "DecTek"
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -147,13 +121,6 @@ enable = true
 label = "Get A Quote"
 link = "contact"
 
-# google map
-[params.gmap]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
 
   
 ############################# social site ########################
@@ -190,14 +157,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 DecTek"
