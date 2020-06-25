@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Digital Network Engineers <br/> & Design Agency"
-  content : "We Are Liquid Metal, Indaboski pahose."
+  title : "A Digital Network Engineers <br/> & Software Design Agency"
+  content : "We are to give the best service"
   button:
     enable : true
     label : "Discover Our Project"
@@ -14,13 +14,11 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
+  description : "We will reach the edge of the universe, to satisfy you"
+  content : "We are a team of consultants, that design, build and Test Network Infrastructure.
+  <br>
+  We develop Software for web, mobile, desktop suites to suit your needs in this ever changing digital world.
+  We Design Graphics, make your logo look colorful and appealing to your clients"
   image : "images/wrapper-img.png"
 
 
@@ -30,13 +28,13 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  We have great minds in our team, to think out of the box for solution to solve your pressing concerns.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  We have a good development philosophy, we deliver on time, which make our clients happy.
+  
+  
+  We are network of working minds, like neurons, we simply get the Job done, no matter the size of task given.
   "
   button:
     enable : true
@@ -66,7 +64,7 @@ funfacts:
   enable : true
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+"
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
