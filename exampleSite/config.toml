@@ -52,9 +52,9 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Project"
-URL = "project"
-weight = 2
+# name = "Project"
+# URL = "project"
+# weight = 2
 
 [[menu.main]]
 name = "Service"
@@ -62,9 +62,9 @@ URL = "service"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+# name = "Blog"
+# URL = "blog"
+# weight = 4
   
 [[menu.main]]
 name = "Contact"
@@ -79,9 +79,9 @@ URL = "about"
 weight = 1
 
 [[menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
+# name = "Project"
+# URL = "project"
+# weight = 2
 
 [[menu.footer]]
 name = "Service"

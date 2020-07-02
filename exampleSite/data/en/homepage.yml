@@ -7,8 +7,8 @@ banner:
   content : "We are to give the best service"
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Contact Us"
+    link : "contact"
 
 ############################# About #################################
 about:

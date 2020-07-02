@@ -1,15 +1,10 @@
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
+  title : "Creative Networking and Software Design Company"
+  content : "Over the years, we have heard of customers complaining that Service providers, 
+  do not give them what they bargained for. Here in veebaytech, our philosophy here is, get it right before
+charge. We will go out of our way to make sure, you satisfy you, receive a nod from you before we ask for payment."
   image : "images/company/company-group-pic.jpg"
 
 
@@ -18,22 +13,22 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
+    - name : "We Listen"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Here in Veebay Tech, we make sure we listen to you"
       
     # featured service item loop
-    - name : "Product Branding"
+    - name : "We Question"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "We question your ideas, to clarify and understand what you really want"
       
     # featured service item loop
-    - name : "Game Development"
+    - name : "We Implement"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "We start working to actualize it"
 
       
 ############################# Service ###############################
@@ -44,33 +39,33 @@ service:
   service_item:
     # service item loop
     - icon : ion-wifi #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Network Installation
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Network Infrastructure Design ans Implementation
+      content: "We are experts in Cisco, Huawei Networking Hardware"
 
     # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "We have the best web Frontend and Backend Software engineers"
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Graphics Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Digital Marketing
+      content: "Give us a brand, and we will make it known to your potential customers"
 
     # service item loop
     - icon : ion-code #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Software & App Development
+      content: "We are professionals in Software Development, using latest open source tools"
+
+    # service item loop
+    - icon : ion-cube #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: ICT Consultancy
+      content: "Like we said, we are a hive of Tech minds, Don't bother on how it will be done"
 
     # # service item loop
-    # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Windows App Design
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # # service item loop
-    # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Development
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-card #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Sales and Installation of Home Security Equipment
+      content: "We will install machines that will watch out for you, 'Be your Owner's keeper'"
 
     # # service item loop
     # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
