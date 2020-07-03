@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Digital Network Engineers <br/> & Software Design Agency"
-  content : "We are to give the best service"
+  title : "VEEBAY TECHNOLOGIES"
+  content : "Technologies|Creative|Consulting"
   button:
     enable : true
     label : "Contact Us"

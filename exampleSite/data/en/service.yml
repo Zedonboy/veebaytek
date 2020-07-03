@@ -2,21 +2,61 @@
 about:
   enable : true
   title : "Creative Networking and Software Design Company"
-  content : "Over the years, we have heard of customers complaining that Service providers, 
-  do not give them what they bargained for. Here in veebaytech, our philosophy here is, get it right before
-charge. We will go out of our way to make sure, you satisfy you, receive a nod from you before we ask for payment."
+  content : "Expertise, thorough knowledge and firsthand experience along with strong Industry specific research skills help us in analyzing, designing and implementing world class solutions"
   image : "images/company/company-group-pic.jpg"
+
+  ####################### Second type of featured service#############
+xfeatured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "CREATIVE, DESIGN & MULTIMEDIA"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary"
+      content : "<ul>
+      <li>Web Design</li>
+      <li>Stationery Design</li>
+      <li>Logo Design</li>
+      <li>Internet Advertising</li>
+      <li>Print Media Design</li>
+      <li>Multimedia Design</li>
+      </ul>"
+      
+    # featured service item loop
+    - name : "INFORMATION TECHNOLOGY"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "<ul>
+      <li>Software Development Services</li>
+<li>Mobile Application Development</li>
+<li>Custom Enterprise Solutions</li>
+<li>Technology Integration Services</li>
+<li>Consultancy Services</li>
+      </ul>"
+      
+    # featured service item loop
+    - name : "SOCIAL MEDIA SERVICES"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "<ul>
+      <li>Social space setup</li>
+<li>Initial thrust by generating a sizable number of followers</li>
+<li>Social content creation</li>
+<li>Social content visual design</li>
+<li>Interacting with fans (responding to comments, suggestion and queries)</li>
+
+      </ul>"
 
 
 ########################## featured service ############################
 featured_service:
-  enable : true
+  enable : false
   service_item:
     # featured service item loop
-    - name : "We Listen"
+    - name : "CREATIVE, DESIGN & MULTIMEDIA"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Here in Veebay Tech, we make sure we listen to you"
+      content : "love"
       
     # featured service item loop
     - name : "We Question"

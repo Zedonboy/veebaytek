@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://affectionate-hawking-0877dd.netlify.app/"
 title = "VeebayTek"
-theme = "airspace-hugo"
+theme = "veebaytek"
 # post pagination
 paginate = "4"
 # post excerpt

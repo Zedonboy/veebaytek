@@ -1,6 +1,6 @@
 ---
 title: "Drop Us A Note"
-description: "Hello!!, are you there?"
+description: ""
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
