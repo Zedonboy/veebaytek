@@ -1,6 +1,6 @@
 ---
 title: "Service"
-description: "What do you do?"
+description: ""
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

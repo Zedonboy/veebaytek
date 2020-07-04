@@ -37,7 +37,7 @@ portfolio:
   We are network of working minds, like neurons, we simply get the Job done, no matter the size of task given.
   "
   button:
-    enable : true
+    enable : false
     label : "View Works"
     link : "project"
 
@@ -61,7 +61,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
 "

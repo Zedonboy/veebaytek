@@ -2,11 +2,17 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "We strive to be the best"
   content : "Incepted in 2020, VEEBAYTECH is a Software Development, Information Technology Services and Consultancy firm providing competitively priced outsourcing services to businesses.
+
+
   VEEBAYTECH prides itself as a well-established and sound outfit driven by the industry’s highly professional and trained individuals and is surely headed in becoming a leading organization which facilitates, enhances and provides measurable business value through most effective uses of Technology and Resources to organizations globally.
+
+
   Our team is made up of highly skilled intellectual personnel, with substantial work experience in diverse areas of Information Technology. Our topnotch management ensures that each individual excels in their specific assigned tasks by working closely with them.
-  Our innovative, focused and sound approach is derived from the cumulative experience of our team members. As a result of the team’s combined practical business experience with strong technology delivery capabilities, we are able to comprehend the client's business requirements, propose IT and creative strategies in line with the vision of the business and execute the business plan by building or implementing high quality scalable business solutions through the use of the latest cutting edge Technologies.
+
+  
+  Our innovative, focused and sound approach is derived from the cumulative experience of our team members. As a result of the team’s combined practical business experience with strong technology delivery capabilities, we are able to comprehend the client's business requirements, propose IT and creative strategies in line with the vision of the business and execute the business plan by building or implementing high quality scalable business solutions through the use of the latest cutting edge Technologies
   "
 
   button:
@@ -53,37 +59,37 @@ features:
     # feature item loop
     - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "We integrate"
-      content : "We bring people of different career background to look at a problem"
+      content : ""
       
     # feature item loop
     - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "We ensure hardware Secutity"
-      content : "We help install networking hardware with security our foremost concern"
+      content : ""
       
     # feature item loop
     - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "We give you control"
-      content : "You have a new idea, that replaces the old one? bring it on"
+      content : ""
       
     # feature item loop
     - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Feedback"
-      content : "We give feedback on every step we take in implementing your idea"
+      content : ""
       
     # feature item loop
     - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Software Design"
-      content : "We give best Software service"
+      content : ""
       
     # feature item loop
     - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "We Brand"
-      content : "We are simply the best"
+      content : ""
     
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:

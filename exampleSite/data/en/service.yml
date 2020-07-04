@@ -44,7 +44,6 @@ xfeatured_service:
 <li>Social content creation</li>
 <li>Social content visual design</li>
 <li>Interacting with fans (responding to comments, suggestion and queries)</li>
-
       </ul>"
 
 
@@ -56,7 +55,11 @@ featured_service:
     - name : "CREATIVE, DESIGN & MULTIMEDIA"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "love"
+      content : "
+      * Web Design
+
+      * Stationery Design
+      "
       
     # featured service item loop
     - name : "We Question"
@@ -75,37 +78,39 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "(Drums roll) Ladies and Gentlemen, here are the service we can do for you, feel free to contact us"
+  description : ""
   service_item:
     # service item loop
     - icon : ion-wifi #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Network Infrastructure Design ans Implementation
-      content: "We are experts in Cisco, Huawei Networking Hardware"
+      content: "
+      - 
+      "
 
     # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Design
-      content: "We have the best web Frontend and Backend Software engineers"
+      content: ""
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Digital Marketing
-      content: "Give us a brand, and we will make it known to your potential customers"
+      content: ""
 
     # service item loop
     - icon : ion-code #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Software & App Development
-      content: "We are professionals in Software Development, using latest open source tools"
+      content: ""
 
     # service item loop
     - icon : ion-cube #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: ICT Consultancy
-      content: "Like we said, we are a hive of Tech minds, Don't bother on how it will be done"
+      content: ""
 
     # # service item loop
     - icon : ion-card #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Sales and Installation of Home Security Equipment
-      content: "We will install machines that will watch out for you, 'Be your Owner's keeper'"
+      content: ""
 
     # # service item loop
     # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
