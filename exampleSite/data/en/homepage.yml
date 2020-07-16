@@ -31,7 +31,7 @@ portfolio:
   We have great minds in our team, to think out of the box for solution to solve your pressing concerns.
 
 
-  We have a good development philosophy, we deliver on time, which make our clients happy.
+  We have a good development philosophy, we deliver on time.
   
   
   We are network of working minds, like neurons, we simply get the Job done, no matter the size of task given.
@@ -53,7 +53,7 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  content : ""
   button:
     enable : true
     label : "Tell Us Your Story"

@@ -54,7 +54,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "We are independent Design & Development Agency"
   feature_item:
     # feature item loop
     - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -63,7 +63,7 @@ features:
       
     # feature item loop
     - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "We ensure hardware Secutity"
+      name : "We ensure hardware Security"
       content : ""
       
     # feature item loop

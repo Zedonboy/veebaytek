@@ -2,7 +2,7 @@
 about:
   enable : true
   title : "Creative Networking and Software Design Company"
-  content : "Expertise, thorough knowledge and firsthand experience along with strong Industry specific research skills help us in analyzing, designing and implementing world class solutions"
+  content : "Expertise, through knowledge and firsthand experience along with strong Industry specific research skills help us in analyzing, designing and implementing world class solutions"
   image : "images/company/company-group-pic.jpg"
 
   ####################### Second type of featured service#############
@@ -82,7 +82,7 @@ service:
   service_item:
     # service item loop
     - icon : ion-wifi #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Network Infrastructure Design ans Implementation
+      name: Network Infrastructure Design and Implementation
       content: "
       - 
       "
